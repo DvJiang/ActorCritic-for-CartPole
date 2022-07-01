@@ -1,4 +1,4 @@
-> 使用AC，A2C算法训练了CartPole游戏，具体细节在我的博客中：
+> 使用AC，A2C算法训练了CartPole游戏，具体细节在我的博客中：https://dvjiang.github.io/2022/06/16/%E4%BB%A5AC%E7%AE%97%E6%B3%95%E6%95%99%E4%BC%9A%E7%A8%8B%E5%BA%8F%E7%8E%A9CartPole/
 
 代码大部分内容均有详细注释，故只作简要概述以及结论分析。
 
